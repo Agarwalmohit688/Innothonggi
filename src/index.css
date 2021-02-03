@@ -5,9 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-x: hidden;
-  scroll-behavior: auto;
-  padding: 0;
+
 }
 
 code {
@@ -19,4 +17,5 @@ code {
   scroll-behavior: auto;
   padding: 0;
   margin: 0;
+  width: 100%;
 }
