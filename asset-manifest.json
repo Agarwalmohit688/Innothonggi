@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Innothonggi/static/css/main.d8a127d3.chunk.css",
+    "main.js": "/Innothonggi/static/js/main.e8fd4aa9.chunk.js",
+    "main.js.map": "/Innothonggi/static/js/main.e8fd4aa9.chunk.js.map",
+    "runtime-main.js": "/Innothonggi/static/js/runtime-main.37469316.js",
+    "runtime-main.js.map": "/Innothonggi/static/js/runtime-main.37469316.js.map",
+    "static/css/2.150d169a.chunk.css": "/Innothonggi/static/css/2.150d169a.chunk.css",
+    "static/js/2.103ce152.chunk.js": "/Innothonggi/static/js/2.103ce152.chunk.js",
+    "static/js/2.103ce152.chunk.js.map": "/Innothonggi/static/js/2.103ce152.chunk.js.map",
+    "index.html": "/Innothonggi/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Innothonggi/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d8a127d3.chunk.css.map": "/Innothonggi/static/css/main.d8a127d3.chunk.css.map",
+    "static/js/2.103ce152.chunk.js.LICENSE.txt": "/Innothonggi/static/js/2.103ce152.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37469316.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.103ce152.chunk.js",
+    "static/css/main.d8a127d3.chunk.css",
+    "static/js/main.e8fd4aa9.chunk.js"
+  ]
+}
