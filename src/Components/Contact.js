@@ -12,7 +12,7 @@ function Contact() {
       <div className="row">
         <div className="col-sm-6 text-center" id="box1">
           <img
-            src="/images/4861083.jpg"
+            src={process.env.PUBLIC_URL + "/images/4861083.jpg"}
             alt="imgae"
             className="mx-auto img-fluid"
             id="img1"

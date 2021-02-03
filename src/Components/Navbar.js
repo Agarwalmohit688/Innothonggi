@@ -16,7 +16,7 @@ function Navbar() {
 
     useEffect(()=>{
         window.addEventListener("scroll",()=>{
-            if(window.scrollY>150){
+            if(window.scrollY>10){
                 handleShow(true)
                 console.log("window is scrolled")
             }else{
